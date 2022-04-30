@@ -1,0 +1,94 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.font-bold{
+    font-weight: 900;
+    font-family: 'Ubuntu', sans-serif;
+}
+.top-left{
+    width: 50%;
+    height: 50vh;
+}
+.top-right{
+    width: 50%;
+    height: 50vh;
+}
+.flex-col{
+    flex-direction: column;
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color:rgb(66 76 165);
+}
+
+.btn{
+    padding: 7px 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: white;
+    background-color: rgb(211 102 255);
+    cursor: pointer;
+}
+.overflow-hidden{
+    overflow-x: hidden;
+}
+.text-center{
+    text-align: center;
+}
+.section2{
+   padding-left: 63px;
+   padding-right: 63px;
+   margin: 63px;
+}
+
+.section2 h1{
+    font-size: 2rem;
+}
+.box{
+    border-radius: 8px;
+    padding:8px 0px;
+    margin:12px 22px;
+    min-width: 20vw;
+    border: 2px solid purple;
+    text-align: center;
+}
+.box ul{
+    list-style: none;
+}
+.box ul li{
+    margin:12px 2px;
+}
+
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
